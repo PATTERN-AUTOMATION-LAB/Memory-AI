@@ -5,7 +5,7 @@ Your self-organizing knowledge base, where you can summarize and chat with any o
 <!-- logo -->
 <p align="center">
     <a href="https://patternautomation.io/memory-ai" alt="MemoryAI Logo">
-    <img src="./static/img/logo.png" height="173"/></a>
+    <img src="./Images/Picture-7.png" height="473"/></a>
 </p>
 
 <h1 align="center"> MemoryAI </h1>
@@ -54,24 +54,48 @@ MemoryAI offers a comprehensive suite of tools for **knowledge management**, **c
 
 The **Whiteboard** feature lets you organize your knowledge and ideas using a spatial **canvas** with **shapes**, **drawings**, **website embeds**, and **connectors**. You can **visually group** and **link** your **notes** and external media (such as **videos** and **images**), enabling visual thinkers to compose, remix, **annotate**, and connect content from their knowledge base.
 
+
+<p align="center">
+    <a href="https://patternautomation.io/memory-ai" alt="MemoryAI Logo">
+    <img src="./Images/Picture-5.jpeg" height="473"/></a>
+</p>
+
 Whether you're a student, researcher, developer, or professional, MemoryAI helps you capture, organize, and connect your ideas in a way that makes sense to you.
+
+<p align="center">
+    <a href="https://patternautomation.io/memory-ai" alt="MemoryAI Logo">
+    <img src="./Images/Picture-6.png" height="473"/></a>
+</p>
 
 ## ✨ Key Features
 
 - 🔒 **Privacy-First**: Your data stays yours - complete control over your information
 
-<div align="center">
-<img width="750" height="600" alt="github-banner" src="https://github.com/PATTERN-AUTOMATION-LAB/PAgentic-Search/blob/main/Image/PA%20search.JPG" />
+<p align="center">
+    <a href="https://patternautomation.io/memory-ai" alt="MemoryAI Logo">
+    <img src="./Images/Picture-9.png" height="473"/></a>
+</p>
 
 
 - 📝 **Flexible Note-Taking**: Support for **Markdown** and **Org-mode** formats
 - 🎨 **Visual Whiteboard**: Organize ideas using a spatial canvas with shapes, drawings, and connectors
 - 📄 **PDF Annotation**: Annotate and reference PDFs directly within your notes
+
+<p align="center">
+    <a href="https://patternautomation.io/memory-ai" alt="MemoryAI Logo">
+    <img src="./Images/Picture-1.jpeg" height="473"/></a>
+</p>
+
 - ✅ **Task Management**: Built-in task tracking and project management capabilities
+
+<p align="center">
+    <a href="https://patternautomation.io/memory-ai" alt="MemoryAI Logo">
+    <img src="./Images/Picture-8.png" height="473"/></a>
+</p>
+
 - 🔗 **Bi-directional Linking**: Connect your thoughts and create a knowledge graph
-- 🎨 **Beautiful Purple Theme**: Modern, eye-friendly interface with deep purple accents
+- 🎨 **Beautiful Blue Theme**: Modern, eye-friendly interface with deep purple accents
 - 🔌 **Plugin Ecosystem**: Extend functionality with community-created plugins
-- 📱 **Mobile Apps**: Access your knowledge on iOS and Android devices
 - 🔄 **Real-Time Collaboration**: Sync and collaborate across multiple devices
 - 📊 **Database & File Graphs**: Choose between database-backed or file-based storage
 - 🌐 **Open Source**: Fully transparent and community-driven development
